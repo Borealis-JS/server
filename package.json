@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server software for Borealis.",
+  "type": "module",
+  "scripts": {},
+  "engines": {
+    "node": "^18"
+  },
+  "dependencies": {},
+  "author": "Borealis",
+  "license": "MIT"
+}

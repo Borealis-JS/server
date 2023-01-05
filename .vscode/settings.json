@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "node_modules": true,
+    ".vscode": true,
+    ".github": true,
+    "LICENSE": true,
+    "package-lock.json": true
+  },
+  "hide-files.files": [
+    "node_modules",
+    ".vscode",
+    ".github",
+    "LICENSE",
+    "package-lock.json"
+  ]
+}
